@@ -1,0 +1,27 @@
+#listas {
+	font-size: 25px;
+    color: #FF0000;
+	}
+.contenedor {
+    position: relative;
+    width: 500px;
+    padding-right: 0px;
+    padding-left: 100px;
+    margin-left: auto;
+    margin-right: auto; 
+ background-color: yellow;
+}
+ .img { 
+display: block;
+left: 200px;
+top: 100px;
+right: 2000px;
+padding-left: 10%;
+padding-top: 10%;
+padding-right: 10%;
+padding-bottom: 10%;
+}
+
+#link:focus {
+    color: green;
+} 
