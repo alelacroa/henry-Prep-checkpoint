@@ -182,8 +182,6 @@ function filtrar(funcion) {
   // }) => [{price: 100, name:'tv'}]
   
 
-
-
 };
 
 // No modifiques nada debajo de esta linea
